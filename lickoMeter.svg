@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53027345"
-     inkscape:cx="696.82826"
-     inkscape:cy="584.07714"
+     inkscape:zoom="1.0605469"
+     inkscape:cx="400.27148"
+     inkscape:cy="261.9889"
      inkscape:document-units="mm"
-     inkscape:current-layer="g20514"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -87,6 +87,26 @@
        inkscape:export-filename="C:\DEV\FlexiTiny\Lick'O'Meter2020\Licko2020.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="C:\DEV\Lick'O'Meter2020\Licko2020.png"
+       y="71.61544"
+       x="297.44626"
+       height="154.58127"
+       width="219.78542"
+       id="rect5756"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="C:\DEV\Lick'O'Meter2020\LickoPhotoMask.png"
+       y="180.86736"
+       x="65.425659"
+       height="38.823387"
+       width="83.819809"
+       id="rect5758"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      inkscape:label="circuit"
@@ -6292,7 +6312,7 @@
     </g>
     <g
        id="g20514"
-       transform="matrix(2.2605028,0,0,2.2605028,277.31249,-420.91999)"
+       transform="matrix(2.2605028,0,0,2.2605028,276.25415,-420.39082)"
        style="stroke-width:0.44237947">
       <g
          id="g20086"
